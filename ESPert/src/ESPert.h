@@ -32,7 +32,7 @@ extern const float ESPERT_LIBRARY_VERSION;
 #define ESPERT_BOARD_ESPRESSO_LITE2 2
 #define ESPERT_BOARD_ESP201         3
 
-extern int ESPertBoardType; // default
+extern int ESPertBoardType; // default b
 
 #ifdef ESPERT_DEBUG
 
