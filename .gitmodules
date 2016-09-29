@@ -1,0 +1,3 @@
+[submodule "LifePlantersLib"]
+	path = LifePlantersLib
+	url = https://github.com/johnlimjsj/ArduinoLibMac.git
