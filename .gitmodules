@@ -1,3 +1,6 @@
 [submodule "LifePlantersLib"]
 	path = LifePlantersLib
 	url = https://github.com/johnlimjsj/LifePlantersLib.git
+[submodule "SerialReadPrint"]
+	path = SerialReadPrint
+	url = https://github.com/johnlimjsj/SerialReadPrint.git
